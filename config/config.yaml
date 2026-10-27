@@ -1,0 +1,8 @@
+app:
+  title: "AI Multi-Agent Data Analytics"
+  max_upload_mb: 100
+cleaning:
+  numeric_strategy: "median"
+  categorical_strategy: "mode"
+llm:
+  enabled: true
